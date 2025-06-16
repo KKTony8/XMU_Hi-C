@@ -1,3 +1,5 @@
+####主要用于统计四种模式的序列数量，根据设计的barcode和umi来做区分
+##22:55 2025/6/16 wky
 #!/bin/bash
 
 DEFAULT_READS=1000000
