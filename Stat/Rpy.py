@@ -1,3 +1,7 @@
+####预先装好parafly工具，可以创建conda环境，激活parafly_env
+####用于根据特定barcode来检索正确序列
+##22:55 2025/6/16 wky
+
 #!/usr/bin/env python3
 """
 【说明】
